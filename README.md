@@ -32,15 +32,7 @@ This project performs the following:
 
 The data used in this project comes from the **Bangalore Traffic Dataset**. It includes metrics on traffic volume, speed, incidents, environmental impact, public transport usage, and more.
 
-## Getting Started
-
-### Prerequisites
-
-To run this project locally, ensure you have Python installed along with the following libraries:
-
-```bash
-pip install pandas numpy scikit-learn matplotlib seaborn
-
+## Example Output
 **Area**: Koramangala
 - Traffic Volume: 25,000 vehicles
 - Average Speed: 50 km/h
@@ -51,4 +43,14 @@ pip install pandas numpy scikit-learn matplotlib seaborn
 - Public Transport Usage: 55%
 
 Advisory: Moderate congestion in this area. Consider using alternative routes or public transport during peak hours.
+
+## Getting Started
+
+### Prerequisites
+
+To run this project locally, ensure you have Python installed along with the following libraries:
+
+```bash
+pip install pandas numpy scikit-learn matplotlib seabor
+
 
