@@ -51,6 +51,6 @@ Advisory: Moderate congestion in this area. Consider using alternative routes or
 To run this project locally, ensure you have Python installed along with the following libraries:
 
 ```bash
-pip install pandas numpy scikit-learn matplotlib seabor
+pip install pandas numpy scikit-learn matplotlib seaborn
 
 
