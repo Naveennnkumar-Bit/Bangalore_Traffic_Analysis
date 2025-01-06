@@ -40,3 +40,15 @@ To run this project locally, ensure you have Python installed along with the fol
 
 ```bash
 pip install pandas numpy scikit-learn matplotlib seaborn
+
+**Area**: Koramangala
+- Traffic Volume: 25,000 vehicles
+- Average Speed: 50 km/h
+- Travel Time Index: 1.5
+- Congestion Level: 45%
+- Incident Reports: Low
+- Environmental Impact: Moderate
+- Public Transport Usage: 55%
+
+Advisory: Moderate congestion in this area. Consider using alternative routes or public transport during peak hours.
+
